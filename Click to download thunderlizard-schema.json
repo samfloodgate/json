@@ -1,0 +1,123 @@
+{
+  "overall_score": null,
+  "summary": {
+    "strengths": [],
+    "weaknesses": []
+  },
+  "rubric": [
+    {
+      "category": "Proprietary Truth",
+      "subcomponent": "Non-Consensus Belief",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Proprietary Truth",
+      "subcomponent": "Earned Through Scarcity",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Proprietary Truth",
+      "subcomponent": "Customer Behavior Insight",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Proprietary Truth",
+      "subcomponent": "Hidden Inflection",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Desperation Signal",
+      "subcomponent": "Common Desperation",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Desperation Signal",
+      "subcomponent": "Compelling Event",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Desperation Signal",
+      "subcomponent": "Tangible Results",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Desperation Signal",
+      "subcomponent": "Believable Solution",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Desperation Signal",
+      "subcomponent": "Precisely Named Targets",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Compounding Mechanism",
+      "subcomponent": "Increasing Returns",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Compounding Mechanism",
+      "subcomponent": "Flywheel Mechanics",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Compounding Mechanism",
+      "subcomponent": "Unique Asset Creation",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Compounding Mechanism",
+      "subcomponent": "Cost Leverage",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Compounding Mechanism",
+      "subcomponent": "Behavior Lock-in",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Escalating Asymmetry",
+      "subcomponent": "Moat Structure",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Escalating Asymmetry",
+      "subcomponent": "Cost Curve Advantage",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Escalating Asymmetry",
+      "subcomponent": "Ecosystem Dependency",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Escalating Asymmetry",
+      "subcomponent": "Switching Friction",
+      "score": null,
+      "notes": ""
+    },
+    {
+      "category": "Escalating Asymmetry",
+      "subcomponent": "Competitive Catch-Up",
+      "score": null,
+      "notes": ""
+    }
+  ]
+}
